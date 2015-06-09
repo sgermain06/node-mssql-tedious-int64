@@ -23,7 +23,7 @@
 		"node-sqlserver",
 		"sqlserver"
 	],
-	"version": "2.1.5",
+	"version": "2.1.6",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
@@ -31,7 +31,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"tedious-int64-native": "^1.12.0",
+		"tedious-int64-native": "^1.12.1",
 		"generic-pool": "^2.2.0",
 		"promise": "^7.0.1"
 	},
