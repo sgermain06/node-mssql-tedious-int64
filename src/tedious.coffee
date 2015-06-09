@@ -1,5 +1,5 @@
 {Pool} = require 'generic-pool'
-tds = require 'tedious'
+tds = require 'tedious-int64-native'
 util = require 'util'
 
 {TYPES, declare, cast} = require './datatypes'
